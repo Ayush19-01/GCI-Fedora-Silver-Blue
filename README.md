@@ -49,9 +49,9 @@ If you really need a different version of an operating system package, you can l
 this loses some of the benefits of the immutability. When you want to install applications, the preferred way of doing so 
 is to use Flatpak.
 
-## Finally..
+## Finally....
 
-If one's requirment is a stable desktop system, and particularly interested in using Flatpak, then it is highly recommended
+If one's requirement is a stable desktop system, and particularly interested in using Flatpak, then it is highly recommended
 to give __Silverblue__ a shot. Installation is easy(simpler than most linux OS's), applications are simple to get onto your 
 system. Plus if you're used to Fedora workstation or any standard Linux desktop system,you wont have any problem with trying
 it. It's new, stable and easy to use, why not try __Silverblue__?
