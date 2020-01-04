@@ -3,7 +3,7 @@
 ![alt text](https://github.com/Ayush19-01/GCI-Fedora-Silver-Blue/blob/master/resources/what-is-fedora-silverblue-816x345.jpg)
 
 __Silverblue__ is a _immutable_ variant of Fedora Workstation. It is like a regular desktop operating system, you will never be
-able tofind the difference between the standard Fedora Workstation, the user experiences the same features with a new, yet 
+able to find the difference between the standard Fedora Workstation, the user experiences the same features with a new, yet 
 different structure.
 
 __Silverblue’s__ core technology is really helpfull as OS updates are fast and there’s no waiting around for them 
@@ -58,7 +58,7 @@ it. It's new, stable and easy to use, why not try __Silverblue__?
 
 ### Acknowledgement
 
-___Points sorted and taken from:___
+___Points extracted from:___
 
    ___1) https://docs.fedoraproject.org/en-US/fedora-silverblue/___
   
